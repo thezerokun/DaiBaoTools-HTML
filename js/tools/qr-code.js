@@ -9,7 +9,7 @@ window.DaibaoTools.createQrCode = function (container) {
         <h2 class="qr-card-title">生成二维码</h2>
         <div class="qr-field">
           <label class="qr-label" for="qrContent">内容（文字 / 网址 / 任意文本）</label>
-          <textarea class="qr-textarea" id="qrContent" rows="3" placeholder="例如 https://github.com/nullhe"></textarea>
+          <textarea class="qr-textarea" id="qrContent" rows="3" placeholder="例如 https://github.com/thezerokun"></textarea>
         </div>
         <div class="qr-row">
           <div class="qr-field qr-field-grow">
